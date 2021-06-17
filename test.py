@@ -99,7 +99,7 @@ jsondata = [
         "outOfStockStrategy": 0,
         "orderGuid": uuid,
         "storeId": storeId,
-        "userPin": userPin
+        "userPin": userPin,
     },
     {
         "posParam": {
